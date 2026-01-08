@@ -9,6 +9,10 @@ Le rapport a été conçu pour offrir une vision à la fois macro et micro des p
 3.  *Audience & Visiteurs :* Analyse démographique et habitudes de consultation pour adapter les heures de publication.
 4.  *Conversion des Abonnés :* Suivi de la croissance de la communauté et analyse du taux de conversion des visiteurs en abonnés qualifiés.
 
+## 🎬 Démonstration Vidéo
+![Démonstration interactive du Dashboard](Apercu.gif)
+Note : Cette animation montre la navigation fluide entre les pages et l'utilisation des filtres dynamiques.
+
 ## 🛠️ Expertise Technique
 * *Source de données :* Fichiers Excel (Données anonymisées conformément au RGPD).
 * *Traitement de la donnée :* Nettoyage et modélisation via Power Query (Pivotement, typage, gestion des dates).
