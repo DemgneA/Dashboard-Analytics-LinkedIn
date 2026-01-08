@@ -1,6 +1,6 @@
 # Dashboard-Analytics-LinkedIn
 ![Aperçu de la page Accueil](Home.png)
-*Figure 1*: Page 'Global' présentant la synthèse des performances et l'évolution des KPIs majeurs.
+*Figure 1*: Page *Global* présentant la synthèse des performances et l'évolution des KPIs majeurs.
 
 Une société de conseil souhaite piloter sa stratégie de communication sur LinkedIn. L'enjeu est de transformer les extractions de données brutes en insights actionnables pour optimiser l'engagement et la conversion des abonnés.
 ## 🏗️ Structure du Rapport (4 Pages)
