@@ -20,8 +20,25 @@ Les données utilisées proviennent d'exports natifs de la plateforme *LinkedIn 
 * *Période analysée* : De Janvier 2024 à Décembre 2025.
 * *Nature des données* : Statistiques d'engagement des posts, démographie des visiteurs et évolution de la communauté d'abonnés.
 * *Confidentialité* : Toutes les données sensibles et nominatives ont été *anonymisées* conformément aux bonnes pratiques de protection des données.
+***
+## 🛠️ Stack Technique
+L'ensemble du projet a été développé en utilisant l'écosystème Microsoft Power BI pour garantir une solution robuste et évolutive.
 
----
+* *Microsoft Power BI* : Outil principal utilisé pour la conception du rapport et la visualisation.
+    * *Power Query* : Extraction, nettoyage et transformation des données (ETL).
+    * *DAX (Data Analysis Expressions)* : Création de mesures complexes pour les KPIs et calculs de Time Intelligence (MoM).
+***
+## ⚙️ Méthodologie & Étapes de réalisation
+
+Le projet a suivi un cycle complet de traitement de la donnée, de la préparation à la visualisation finale.
+
+* *Traitement & Nettoyage (ETL)* : Utilisation de *Power Query* pour transformer les exports bruts, gérer les types de données et assurer la qualité de la base.
+* *Modélisation des données* : 
+    * Création d'une *Table de Dates* (Calendrier) personnalisée pour permettre des analyses temporelles précises.
+    * Mise en place des *relations entre les tables* pour structurer le modèle de données.
+* *Calculs Statistiques (DAX)* : Écriture de mesures complexes pour extraire les indicateurs clés (Taux d'engagement, Conversion, Comparaisons MoM).
+* *Design & Visualisation* : Conception des visuels en respectant le *template et la charte graphique* de la société pour une expérience utilisateur harmonieuse et professionnelle.
+***
 ## 🏗️ Structure du Rapport (4 Pages)
 Le rapport a été conçu pour offrir une vision à la fois macro et micro des performances :
 
