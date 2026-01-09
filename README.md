@@ -50,7 +50,13 @@ Le rapport est structuré en *4 pages interactives*, permettant une navigation f
 2.  *Analyse des Posts :* Focus sur le contenu. Identification des thématiques et formats qui génèrent le plus d'interactions.
 3.  *Audience & Visiteurs :* Analyse démographique et habitudes de consultation pour adapter les heures de publication.
 4.  *Conversion des Abonnés :* Suivi de la croissance de la communauté et analyse du taux de conversion des visiteurs en abonnés qualifiés.
+***
+## 💡 Résultats clés & Insights
+L'analyse des données a permis de dégager des leviers d'optimisation concrets pour la stratégie de communication du cabinet.
 
-
+* *Optimisation du Contenu* : Identification des formats (images, vidéos, carrousels) générant le plus de résonance pour maximiser le *Taux d'engagement*.
+* *Acquisition d'Audience* : Mise en évidence des périodes de forte conversion pour corréler les campagnes de recrutement avec les pics de croissance d'abonnés.
+* *Analyse Comportementale* : Adaptation de la planification des posts en fonction des *tendances de consultation* (Mobile vs PC) pour capter l'audience au moment opportun.
+* *Aide à la Décision* : Grâce au suivi *MoM (Month over Month)*, le cabinet peut désormais réagir rapidement en cas de baisse de portée ou d'interaction.
 ---
 > *Note sur la confidentialité :* Pour des raisons de propriété intellectuelle et de confidentialité liées à la société de conseil, le fichier source (.pbix) n'est pas disponible en téléchargement. Ce dépôt présente les visuels et la méthodologie d'analyse.
