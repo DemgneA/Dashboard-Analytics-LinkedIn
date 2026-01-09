@@ -7,6 +7,14 @@
 Une société de conseil souhaite piloter sa stratégie de communication sur LinkedIn. L'enjeu est de transformer les extractions de données brutes en insights actionnables pour optimiser l'engagement et la conversion des abonnés.
 ---
 ***
+## 🎯 Objectifs du Projet
+L'objectif principal est de fournir une *vision 360°* de la performance LinkedIn pour optimiser la stratégie de contenu et l'acquisition d'audience.
+
+* *Mesurer l'engagement réel* : Analyser le *Taux d'engagement* (ou d'interaction) pour identifier les contenus qui génèrent le plus de résonance auprès de l'audience.
+* *Piloter la conversion* : Suivre le *Taux de conversion* (Visiteurs vs Abonnés) pour évaluer l'efficacité de la page à transformer un curieux en membre de la communauté.
+* *Analyser le comportement des visiteurs* : Identifier les *Tendances de consultation* (Mobile vs Desktop) pour adapter le format des visuels et la longueur des textes aux habitudes des utilisateurs.
+* *Suivi de la croissance (MoM - Month over Month)* : Comparer les *Impressions, Clics, Commentaires et Abonnés* par rapport au mois précédent pour détecter les périodes de forte croissance ou de baisse d'activité.
+***
 ## 🏗️ Structure du Rapport (4 Pages)
 Le rapport a été conçu pour offrir une vision à la fois macro et micro des performances :
 
