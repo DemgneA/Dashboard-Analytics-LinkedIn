@@ -1,4 +1,4 @@
-# Dashboard-Analytics-LinkedIn
+ # 📊  Dashboard-Analytics-LinkedIn
 ![Aperçu de la page Accueil](Home.png)
 *Figure 1*: Page ***Global*** présentant la synthèse des performances et l'évolution des KPIs majeurs.
 
