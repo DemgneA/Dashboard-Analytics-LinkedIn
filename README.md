@@ -1,11 +1,9 @@
  # 📊  Dashboard-Analytics-LinkedIn
 ![Aperçu de la page Accueil](Home.png)
 *Figure 1*: Page ***Global*** présentant la synthèse des performances et l'évolution des KPIs majeurs.
----
 ***
 ## 📜 Contexte
 Une société de conseil souhaite piloter sa stratégie de communication sur LinkedIn. L'enjeu est de transformer les extractions de données brutes en insights actionnables pour optimiser l'engagement et la conversion des abonnés.
----
 ***
 ## 🎯 Objectifs du Projet
 L'objectif principal est de fournir une *vision 360°* de la performance LinkedIn pour optimiser la stratégie de contenu et l'acquisition d'audience.
@@ -15,6 +13,15 @@ L'objectif principal est de fournir une *vision 360°* de la performance LinkedI
 * *Analyser le comportement des visiteurs* : Identifier les *Tendances de consultation* (Mobile vs Desktop) pour adapter le format des visuels et la longueur des textes aux habitudes des utilisateurs.
 * *Suivi de la croissance (MoM - Month over Month)* : Comparer les *Impressions, Clics, Commentaires et Abonnés* par rapport au mois précédent pour détecter les périodes de forte croissance ou de baisse d'activité.
 ***
+## 📂 Données
+Les données utilisées proviennent d'exports natifs de la plateforme *LinkedIn Business Solution*.
+
+* *Source* : Rapports statistiques extraits directement de LinkedIn (format .xlsx).
+* *Période analysée* : De Janvier 2024 à Décembre 2025.
+* *Nature des données* : Statistiques d'engagement des posts, démographie des visiteurs et évolution de la communauté d'abonnés.
+* *Confidentialité* : Toutes les données sensibles et nominatives ont été *anonymisées* conformément aux bonnes pratiques de protection des données.
+
+---
 ## 🏗️ Structure du Rapport (4 Pages)
 Le rapport a été conçu pour offrir une vision à la fois macro et micro des performances :
 
