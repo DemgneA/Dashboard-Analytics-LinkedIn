@@ -29,7 +29,6 @@ L'ensemble du projet a été développé en utilisant l'écosystème Microsoft P
     * *DAX (Data Analysis Expressions)* : Création de mesures complexes pour les KPIs et calculs de Time Intelligence (MoM).
 ***
 ## ⚙️ Méthodologie & Étapes de réalisation
-
 Le projet a suivi un cycle complet de traitement de la donnée, de la préparation à la visualisation finale.
 
 * *Traitement & Nettoyage (ETL)* : Utilisation de *Power Query* pour transformer les exports bruts, gérer les types de données et assurer la qualité de la base.
@@ -39,23 +38,19 @@ Le projet a suivi un cycle complet de traitement de la donnée, de la préparati
 * *Calculs Statistiques (DAX)* : Écriture de mesures complexes pour extraire les indicateurs clés (Taux d'engagement, Conversion, Comparaisons MoM).
 * *Design & Visualisation* : Conception des visuels en respectant le *template et la charte graphique* de la société pour une expérience utilisateur harmonieuse et professionnelle.
 ***
-## 🏗️ Structure du Rapport (4 Pages)
-Le rapport a été conçu pour offrir une vision à la fois macro et micro des performances :
+## 🏗️ Structure du Rapport
+Le rapport est structuré en *4 pages interactives*, permettant une navigation fluide et une analyse granulaire des performances LinkedIn.
+
+### 🎬 Démonstration Vidéo
+![Démonstration interactive du Dashboard](Apercu.gif)
+> *Note : Cette animation montre la navigation fluide entre les pages et l'utilisation des filtres dynamiques.
+### 🖼️ Zoom sur les Pages Clés
 
 1.  *Vue Globale :* Synthèse des indicateurs clés (Impressions, Clicks, Taux d'engagement moyen) pour suivre la santé générale de la page.
 2.  *Analyse des Posts :* Focus sur le contenu. Identification des thématiques et formats qui génèrent le plus d'interactions.
 3.  *Audience & Visiteurs :* Analyse démographique et habitudes de consultation pour adapter les heures de publication.
 4.  *Conversion des Abonnés :* Suivi de la croissance de la communauté et analyse du taux de conversion des visiteurs en abonnés qualifiés.
 
-## 🎬 Démonstration Vidéo
-![Démonstration interactive du Dashboard](Apercu.gif)
-Note : Cette animation montre la navigation fluide entre les pages et l'utilisation des filtres dynamiques.
-
-## 🛠️ Expertise Technique
-* *Source de données :* Fichiers Excel (Données anonymisées conformément au RGPD).
-* *Traitement de la donnée :* Nettoyage et modélisation via Power Query (Pivotement, typage, gestion des dates).
-* *Calculs Avancés :* Création de mesures DAX pour les différents KPI.
-* *Visualisation :* Design épuré favorisant la lecture rapide des KPI stratégiques.
 
 ---
 > *Note sur la confidentialité :* Pour des raisons de propriété intellectuelle et de confidentialité liées à la société de conseil, le fichier source (.pbix) n'est pas disponible en téléchargement. Ce dépôt présente les visuels et la méthodologie d'analyse.
